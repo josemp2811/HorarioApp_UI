@@ -1,28 +1,32 @@
 Gestor Académico Universitario
 
-Una aplicación móvil desarrollada para asistir a estudiantes universitarios en la organización de su tiempo, actividades, asignaturas y recordatorios académicos de manera intuitiva y eficaz.
+Una app móvil pensada para acompañar a los estudiantes universitarios en la organización de su tiempo, tareas, materias y recordatorios académicos de forma sencilla, práctica y cómoda.
 
 Funcionalidades principales
 
-Creación de agendas personalizadas
-Administración de tareas académicas con fechas de entrega
-Alertas automáticas para exámenes y trabajos
-Interfaz visual accesible y adaptable
-Sincronización en la nube (simulada)
-Acceso seguro mediante inicio de sesión
+Creación de horarios a medida
+Organización de tareas académicas con fechas de entrega
+Recordatorios automáticos para exámenes y trabajos importantes
+Interfaz visual clara, amigable y adaptable al gusto del usuario
+Sincronización en la nube (modo simulación)
+Inicio de sesión seguro para proteger la información
 
-Este proyecto fue desarrollado utilizando la metodología Design Thinking, con las siguientes etapas:
+Metodología aplicada
 
-Empatizar – Entrevistas con estudiantes
-Definir – Identificación clara del problema
-Idear – Mapa mental de soluciones viables
-Prototipar – Diseños de baja y alta fidelidad (Figma, Canva)
-Testear – Pruebas de usabilidad con usuarios reales (solo frontend)
+Este proyecto fue llevado a cabo usando la metodología Design Thinking, siguiendo estas etapas:
+
+Empatizar – Conversamos con estudiantes para entender sus necesidades
+Definir – Identificamos con claridad el problema a resolver
+Idear – Creamos un mapa mental con ideas y posibles soluciones
+Prototipar – Diseñamos versiones iniciales en baja y alta fidelidad (Figma, Canva)
+Testear – Hicimos pruebas de uso con personas reales (solo interfaz)
 
 Tecnologías utilizadas
-Frontend: Flutter (en simulación)
-Prototipo: Figma + Canva
+
+Frontend: Flutter (modo simulado)
+Prototipado: Figma + Canva
 Control de versiones: Git + GitHub
+
 Equipo de trabajo
 
 José Miguel Peña Hincapié
@@ -34,7 +38,8 @@ Fecha: Junio 2025
 
 Estado del desarrollo
 
-Este repositorio contiene únicamente el prototipo visual (frontend) del proyecto. No incluye funcionalidades reales (backend o base de datos).
+Este repositorio incluye solo el diseño visual (frontend) de la aplicación. Aún no cuenta con funciones reales como bases de datos o servidor (backend).
 
 Licencia
-Este desarrollo es parte de un trabajo académico y no está destinado a su uso comercial.
+
+Este proyecto fue creado como parte de un trabajo académico y no tiene fines comerciales.
