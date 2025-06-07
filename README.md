@@ -1,16 +1,15 @@
 Gestor Académico Universitario
 
-Una aplicación móvil diseñada para ayudar a estudiantes universitarios a organizar su tiempo, tareas, materias y recordatorios académicos de forma intuitiva y eficiente.
+Una aplicación móvil desarrollada para asistir a estudiantes universitarios en la organización de su tiempo, actividades, asignaturas y recordatorios académicos de manera intuitiva y eficaz.
 
 Funcionalidades principales
 
-Creación de horarios personalizados
-Gestión de tareas académicas con fechas límite
-Recordatorios automáticos de exámenes y entregas
-Interfaz visual amigable y personalizable
+Creación de agendas personalizadas
+Administración de tareas académicas con fechas de entrega
+Alertas automáticas para exámenes y trabajos
+Interfaz visual accesible y adaptable
 Sincronización en la nube (simulada)
-Inicio de sesión seguro
-Metodología aplicada
+Acceso seguro mediante inicio de sesión
 
 Este proyecto fue desarrollado utilizando la metodología Design Thinking, con las siguientes etapas:
 
@@ -19,8 +18,8 @@ Definir – Identificación clara del problema
 Idear – Mapa mental de soluciones viables
 Prototipar – Diseños de baja y alta fidelidad (Figma, Canva)
 Testear – Pruebas de usabilidad con usuarios reales (solo frontend)
-Tecnologías utilizadas
 
+Tecnologías utilizadas
 Frontend: Flutter (en simulación)
 Prototipo: Figma + Canva
 Control de versiones: Git + GitHub
@@ -35,9 +34,7 @@ Fecha: Junio 2025
 
 Estado del desarrollo
 
-Este repositorio contiene únicamente el prototipo visual (frontend) del proyecto.
-No posee funcionalidades reales (backend o base de datos).
+Este repositorio contiene únicamente el prototipo visual (frontend) del proyecto. No incluye funcionalidades reales (backend o base de datos).
 
 Licencia
-
-Este proyecto es parte de un trabajo académico y no está destinado para distribución comercial.
+Este desarrollo es parte de un trabajo académico y no está destinado a su uso comercial.
